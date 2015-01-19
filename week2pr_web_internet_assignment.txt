@@ -1,3 +1,5 @@
+Thread: Edward Smith - http://brackets.io/ (Open Source tool)  
+
 Brackets is the name of a text editor that is optimized for creating HTML, CSS, and Javascript files. Brackets.io is the Web site where you can learn about the text editor and download the latest version to your computer so you can use it.
 
 The one sentence tagline at the top of the brackets,io web page is, "A modern, open source text editor that understands web design." This is the important point of view that is important to understanding what Brackets is all about. Flipping through our textbook, I notice that the assignments are all in Notepad++, which is a fairly decent text editor for programmers on Windows. Improvements over the standard Notepad include syntax highlighting and other features. Looking at the syllabus for  this class, I see another optional editor is Dreamweaver. This in my opinion is on the other end of the spectrum--a heavyweight IDE with far too many features, it's expensive and unwieldy.
