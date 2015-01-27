@@ -15,3 +15,17 @@ click the Get Started button, you can always click the Home button to
 get back to the start, or click the Table of Contents button to orient
 yourself and see how far along you are, or jump back to a specific 
 concept that you need a refresher on or would like to study in more depth.
+
+Although this is not a complete beginner's tutorial, the material is not 
+too advanced to be relevant and useful. In fact, the author makes it clear
+that he is teaching the fundamentals of CSS, that are used in any website's
+layout. The writing style is informal and relaxed, sprinkled with humor. 
+The content is also accessible to non-English speakers, having been translated
+into a variety of languages.
+
+A benefit of this step-by-step approach is that, although you can jump off
+the track and visit any individual topic through the Table of Contents,
+the step-by-step track will lead you through a logical progression of
+learning, gradually building on material already covered, so that you can
+easily and slowly add concepts until you are able to understand and
+implement sophisticated layout.
