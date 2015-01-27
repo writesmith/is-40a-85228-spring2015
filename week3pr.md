@@ -1,4 +1,4 @@
-Thread: Edward Smith - http://learnlayout.com/ (CSS Tutorial)
+## Thread: Edward Smith - http://learnlayout.com/ (CSS Tutorial)
 
 If you consider yourself to be slightly more than a beginner to the 
 HTML/CSS/Javascript game, as I do, then you may know how to write HTML 
