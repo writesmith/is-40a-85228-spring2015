@@ -29,3 +29,20 @@ the step-by-step track will lead you through a logical progression of
 learning, gradually building on material already covered, so that you can
 easily and slowly add concepts until you are able to understand and
 implement sophisticated layout.
+
+The tutorial is also aware of the real world. By this I mean that you won't
+be learning in a strictly academic context; the tutorial lets you know
+that what you're learning is available in all browsers. For example, the 
+max-width property is supported on elements in all browsers, including IE7,
+whereas, in later steps, the CSS might only work in IE8+. CSS definitely has
+warts, and this tutorial doesn't shy away from them. In the case of CSS that
+may not display as intended, the author covers strategies, but clearly identifies
+them as hacks and explains that they will not work successfully or uniformly
+in all browsers.
+
+One of my favorite surprises as I worked through this tutorial is that the
+code does not necessarily simply become more and more complex, more and
+more hairy as the steps progress inexorably onward. In fact, once a slightly
+more complex concept has been explained, it is used to create the exact same
+layout from a few screens back, but with much less code. That was very 
+refreshing.
