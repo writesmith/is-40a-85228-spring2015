@@ -45,4 +45,22 @@ code does not necessarily simply become more and more complex, more and
 more hairy as the steps progress inexorably onward. In fact, once a slightly
 more complex concept has been explained, it is used to create the exact same
 layout from a few screens back, but with much less code. That was very 
-refreshing.
+refreshing. By the end of the article, however, things became more tedious
+when the same layout was recreated repeatedly using a wide variety of 
+techniques, and the further along the tutorial progressed, the farther into 
+exotic and new territory it strayed. By near the end of the article, we were
+being warned that the layout would only work in the newest of browsers (IE9 and
+lower are out of luck) and various prefixes are necessary in order to flag
+the attention of the various browser engines.
+
+In conclusion, this article was about a CSS Tutorial web site. The tutorial
+is not for raw beginners, but is accessible and easy to follow so that 
+with some persistence anyone with a little knowledge of how to create a Web
+page in HTML will benefit. Also, the tutorial progresses in an orderly fashion
+towards more complex material, and is careful to explain if the techinques
+being presented are non-standard, are hacks, or only work in some browsers.
+
+I learned a lot. The tutorial clarified issues, refreshed my memory, and got
+me on a solid footing to moving toward knowing more about CSS.
+
+http://learnlayout.com/
