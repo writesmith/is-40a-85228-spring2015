@@ -30,4 +30,28 @@ example of adding audio and video to a web page. These simple examples do not
 show flashy and complicated work. It's simply the very basics required to get
 the example to work. This means you can see what the tag is and what it does.</p>
 
-<p>
+<p>I have been curious for a while to know how the HTML5 video element works.
+I like some of the new web pages I've visited. They have a responsive design
+that fills the browser window with content regardless of what device you are 
+using to visit. It's especially impressive when the content is a full-window
+video that automatically begins playing. This tutorial (specifically video 4)
+shows how it is done.</p>
+
+<p>Although the narrator of the tutorial claims that he is not teaching CSS
+during these six videos, because he has another series of videos that focus
+solely on CSS, the last video in this series of six does show how to lay out
+a page using CSS and new HTML5 elements. In a few quick minutes he shows how
+it is no longer necessary to use tables to lay out a page. Modern browsers are
+able to display HTML5 and CSS quite consistently. With care, you can create a
+web page that will display properly and degrade gracefully in the small 
+fraction of older browsers that visit your page.</p>
+
+<p>More advanced techniques, like some of the interactive journalism articles
+on the New York Times web site, require additional knowledge of CSS and 
+Javascript. But this is a good start.</p>
+
+<p>The credit for the videos is given to [Little Web Hut](http://littlewebhut.com/).
+I visited the web page and I noticed that there are other tutorials available
+too. You can learn more about CSS, Javascript, HTML5, and other topics.</p>
+
+<a href="https://www.youtube.com/watch?v=9gTw2EDkaDQ">https://www.youtube.com/watch?v=9gTw2EDkaDQ</a>
