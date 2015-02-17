@@ -15,7 +15,7 @@ learn about frames. I just spent 15 years trying to forget about frames.</p>
 in my web page for class this week, and what should turn up in the Google
 search results but the Mozilla Developer's Network. It's groovy man. It has
 all kinds of useful information on topics of interest for developer types
-and aspirants. There are different sections for different technolgies. There
+and aspirants. There are different sections for different technologies. There
 is a section for HTML and HTML5. There is a section for CSS and CSS3. There
 is a section on Javascript.</p>
 
