@@ -1,27 +1,27 @@
 ## Edward Smith -- http://youtu.be/eOG90Q8EfRo (YouTube Tutorial)
 
-I have to admit that I was initially skeptical of linking to YouTube videos
+<p>I have to admit that I was initially skeptical of linking to YouTube videos
 in this series of recommendation posts. However, last week's video was so 
 useful and so impressive, that when another HTML5/CSS tutorial video popped
 up in my YouTube recommended videos list, I clicked on it to check it out.
 That's how I found this week's recommended link. Two-for-two, YouTube has
 provided excellent crowd-sourced instruction that has increased my knowledge
-and understanding of HTML5 and CSS layout and design.
+and understanding of HTML5 and CSS layout and design.</p>
 
-In both cases, the videos are the work of folks who maintain tutorial web 
+<p>In both cases, the videos are the work of folks who maintain tutorial web 
 sites, and they are using YouTube not only to share their tutorial videos,
 but also to drive traffic to their own web pages. The video I found this 
 week is made my a web design agency called 1stWebDesigner. Their presence
 on YouTube is designed to raise their company profile and create interest
 in their for-sale projects like rockingcode.com, an online course that teaches
-you HTML5 and CSS for $97. 
+you HTML5 and CSS for $97. </p>
 
-In order for this strategy to work, the free tutorial must be so good that 
+<p>In order for this strategy to work, the free tutorial must be so good that 
 you are convinced that this person can teach you something, but not so good
 that you think they've taught you everything they now. This tutorial fits that
 description perfectly. It's a really good one-hour walkthrough were a skilled
 designer creates a responsive HTML5/CSS page from scratch in a text editor
-while you watch. There are a number of reasons why this is worth your time:
+while you watch. There are a number of reasons why this is worth your time:</p>
 
 1. You get to watch from the point of view of a skilled person, while the
 skilled person uses his tools to do his work. This is a great way to find
