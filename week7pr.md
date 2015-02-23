@@ -48,4 +48,13 @@ come across the language in my books and in other online tutorials and
 documentation, I will already be familiar and so will learn more quickly.</li>
 </ol>
 
+<p>This tutorial covered HTML5, including new elements like header, footer,
+and aside. It showed how to use these tags to semantically identify sections
+in the document. Without any CSS formatting, the page does not look very 
+different with these tags applied. After applying CSS formatting, however, the
+page was properly laid out as the designer intended. The designer also showed
+how to use div tags to divide the page, applying class attributes to the div
+elements, the designer was able to target divs with CSS formatting, showing
+another way to apply styles to the page.</p>
+
 <p><a href="http://youtu.be/eOG90Q8EfRo">http://youtu.be/eOG90Q8EfRo</a></p>
