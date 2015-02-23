@@ -23,7 +23,8 @@ description perfectly. It's a really good one-hour walkthrough were a skilled
 designer creates a responsive HTML5/CSS page from scratch in a text editor
 while you watch. There are a number of reasons why this is worth your time:</p>
 
-1. You get to watch from the point of view of a skilled person, while the
+<ol>
+<li> You get to watch from the point of view of a skilled person, while the
 skilled person uses his tools to do his work. This is a great way to find
 out what kind of tools are best for the job. The designer, Christian, uses
 a programmer's text editor that gives him text-completion and syntax
@@ -31,19 +32,20 @@ highlighting, greatly speeding up his work and making it much easier to
 understand. He is also a careful and thorough developer, properly indenting
 code as he goes to make it more readable, and closing tags as he opens them
 to reduce the chance of accidentally introducing bugs by forgetting to close
-tags.
-2. The designer, Christian, talks out loud as he codes, explaining what he is
+tags.</li>
+<li> The designer, Christian, talks out loud as he codes, explaining what he is
 doing and allowing you to follow along as he reasons through his design choices.
 This is often one of the harder skills for a new coder to learn... it's not
 all about the syntax and the technical details, it's more about problem
-solving and decomposition.
-3. Watching the designer type his code from scratch is a great way to learn
+solving and decomposition.</li>
+<li> Watching the designer type his code from scratch is a great way to learn
 about tags and syntax without having to struggle through documentation and
 trial and error. Especially when he created his CSS stylesheet, I found 
 myself over and over saying, ah-ha! That's how it's done! I still don't know
 the proper names of the things he was doing, but I can apply them right
 away in my own stylesheets, improving my technique and my syntax. Then, as I
 come across the language in my books and in other online tutorials and 
-documentation, I will already be familiar and so will learn more quickly.
+documentation, I will already be familiar and so will learn more quickly.</li>
+</ol>
 
-<a href="http://youtu.be/eOG90Q8EfRo">http://youtu.be/eOG90Q8EfRo</a>
+<p><a href="http://youtu.be/eOG90Q8EfRo">http://youtu.be/eOG90Q8EfRo</a></p>
